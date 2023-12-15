@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776342751927",
+    "project_id": "hulchul-a0d3e",
+    "storage_bucket": "hulchul-a0d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776342751927:android:2304a83aaf9348ebc29b32",
+        "android_client_info": {
+          "package_name": "ott.hulchulapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1CJ1n9oNQ2wgwODVVMyKGPKyiAWEfvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
